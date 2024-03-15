@@ -10,6 +10,5 @@ const profile={
     info:"pursuing B.sc. IT",
     isFollow:true
 
-
 }
 console.log(profile.followers);

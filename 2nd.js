@@ -134,7 +134,7 @@ let scores=83;
     console.log("Grade A");
  }
  else if(scores>=70 && scores<=89){
-    console.log("Grade B");
+     console.log("Grade B");
  }
  else if(scores>=60 && scores<=69){
     console.log("Grade C");
